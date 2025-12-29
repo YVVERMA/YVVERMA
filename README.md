@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm currently learing MERN Stack<br>I'm currently Learning JAVA (DSA)
 
 
 ## 🌐 Socials:
